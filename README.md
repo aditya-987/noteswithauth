@@ -39,8 +39,7 @@ Notes App with authorisation/
 
 ### 1. **Clone the Repository**
 ```sh
-git clone <repo-url>
-cd "Notes App with authorisation"
+git clone <https://github.com/aditya-987/noteswithauth>
 ```
 
 ### 2. **Setup MongoDB Atlas**
